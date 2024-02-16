@@ -7,9 +7,9 @@
 <h3 align="center">Software Engineer @ Amazon</h3>
 <h3 align="center">M.S.E. in Data Science @ UPenn, B.S. & M.S. in Computer Science & Math @ UMich</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzjharry&label=Profile%20views&color=0e75b6&style=flat" alt="zzjharry" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzjharry&label=Profile%20views&color=0e75b6&style=flat" alt="zzjharry" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzjharry" alt="zzjharry" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzjharry" alt="zzjharry" /></a> </p> -->
 
 - 📫 How to reach me **zzjharry@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjharry&show_icons=true&locale=en&layout=compact" alt="zzjharry" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzjharry&show_icons=true&locale=en" alt="zzjharry" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzjharry&show_icons=true&locale=en" alt="zzjharry" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zzjharry&" alt="zzjharry" /></p>
 
