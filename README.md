@@ -4,7 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Zijian Zhang</h1>
-<h3 align="center">Software Engineer @ Amazon, M.S.E. in Data Science @ UPenn, B.S. & M.S. in Computer Science & Math @ UMich</h3>
+<h3 align="center">Software Engineer @ Amazon</h3>
+<h3 M.S.E. in Data Science @ UPenn, B.S. & M.S. in Computer Science & Math @ UMich</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzjharry&label=Profile%20views&color=0e75b6&style=flat" alt="zzjharry" /> </p>
 
