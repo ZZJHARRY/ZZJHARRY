@@ -9,14 +9,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzjharry&label=Profile%20views&color=0e75b6&style=flat" alt="zzjharry" /> </p>
 
+I'm Zijian, currently a software engineer at Amazon. Previously, I was studying Data Science (M.S.E.) at the University of Pennsylvania (UPenn), and I obtained both my master's degree in Computer Science and Engineering and my bachelor's degree with a dual major in Computer Science and Pure Mathematics at the University of Michigan (UMich).
+
+- 🔭 Research-wise, I'm mainly working on topics related to data-centric techniques, including Machine Learning and Natural Language Processing (NLP). At UPenn, I was a research assistant at the [Wharton AI & Analytics for Business (AIAB) lab](https://aiab.wharton.upenn.edu/) of the [Wharton School](https://www.wharton.upenn.edu/). And previously, I was a research assistant in the [SOCR](https://www.socr.umich.edu/index.html) group working on a clinical notes de-indentification system using NLP and deep learning techniques. And I was a research assistant at [Prof. Kim's Lab](https://kim.engin.umich.edu/) working on the audio source localization and proposed a novel deep learning architecture that beat the SOTA. Our work ([*An End-to-End Deep Learning Framework For Multiple Audio Source Separation And Localization*](https://ieeexplore.ieee.org/abstract/document/9746950)) has been published in IEEE ICASSP 2022. Recently, my research interests have expanded to Large Language Models, and my first-author paper ([*Large Language Models for Mobility Analysis in Transportation Systems: A Survey on Forecasting Tasks*](https://arxiv.org/abs/2405.02357)) has been accepted to the Transportation Research Board (TRB) Annual Meeting 2025.
+- 🎯 I worked on the integration between Alexa and Knowledge Graph for my internship at Amazon during the summer of 2020, and Amazon business payments during the summer of 2022.
+- 🐾 I also like proof-based math, and I was an undergraduate researcher at the [Lab of Geometry (LoG(M))](https://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/LoGM.html) working on Hilbert Polynomials. Our work ([*The sum of the Betti numbers of smooth Hilbert schemes*](https://rdcu.be/cyDDg)) has been published in the Journal of Algebraic Combinatorics 2022.
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzjharry" alt="zzjharry" /></a> </p> -->
 
-- 📫 How to reach me **zzjharry@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zzjharry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zzjharry" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zzjharry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zzjharry" height="30" width="40" /></a>
+  
+- 📫 How to reach me **zzjharry@gmail.com**
+- 🧑‍🎓 [My Google Scholar page](https://scholar.google.com/citations?hl=en&user=F_mgPDIAAAAJ)
+<!-- <a href="https://www.leetcode.com/zzjharry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zzjharry" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
